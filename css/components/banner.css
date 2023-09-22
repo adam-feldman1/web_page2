@@ -1,0 +1,25 @@
+.banner{
+  background-image: url(../../images/foot.JPEG);
+  color: #6666FF;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 540px) {
+  .banner h1, h2{
+    padding-left: 30px;
+  }
+}
+

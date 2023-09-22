@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Didact+Gothic&display=swap" rel="stylesheet');
+
+@import url('components/container.css');
+
+@import url('components/card.css');
+
+@import url('components/button.css');
+
+@import url('components/banner.css');
+
+@import url('components/card.css');
+
+h1{
+  font-family: 'Croissant One', cursive;
+}
+
+
+h2, p{
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+h2{
+  font-size: 60px;
+}
+
+p{
+  font-size: 25px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  margin: 0px;
+}
+
+
